@@ -1,0 +1,36 @@
+{
+    "Items": [
+        {
+            "Data": "Кто ты воин?",
+            "PosX": 99.50314331054688,
+            "PosY": 23.478275299072267,
+            "Width": 20.0,
+            "Height": 20.0,
+            "IsDragging": true
+        },
+        {
+            "Data": "Кто здесь?",
+            "PosX": -11.180145263671875,
+            "PosY": -68.19874572753906,
+            "Width": 70.0,
+            "Height": 60.0,
+            "IsDragging": true
+        },
+        {
+            "Data": "Кто здесь?",
+            "PosX": -460.0,
+            "PosY": -1465.0,
+            "Width": 80.0,
+            "Height": 70.0,
+            "IsDragging": true
+        },
+        {
+            "Data": "Кирилл сосёт жопу",
+            "PosX": 465.0,
+            "PosY": 1445.0,
+            "Width": 70.0,
+            "Height": 110.0,
+            "IsDragging": true
+        }
+    ]
+}
